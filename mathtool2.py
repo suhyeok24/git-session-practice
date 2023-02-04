@@ -8,3 +8,5 @@ def triplesum(a,b):
 
 def sum_minus(a,b):
     return (a**2 + b**2) - (a+b)
+def minussquare(a,b):
+    return a**2 - b**2
